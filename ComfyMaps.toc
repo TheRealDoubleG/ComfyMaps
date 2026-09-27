@@ -3,7 +3,7 @@
 ## Notes: Modular world map enhancements, coordinates, points of interest and map utilities for the Comfy Suite on WoW Forever.
 ## Notes-deDE: Modulare Weltkarten-Verbesserungen, Koordinaten, Kartenpunkte und Kartenwerkzeuge für die Comfy Suite in WoW Forever.
 ## Author: TheRealDoubleG
-## Version: 0.1
+## Version: 0.2
 ## SavedVariables: ComfyMapsDB
 ## OptionalDeps: ComfyData, ComfyGatherer
 ## X-ComfySuite: true
