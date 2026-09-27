@@ -1,0 +1,17 @@
+## Interface: 16001
+## Title: ComfyMaps
+## Notes: Modular world map enhancements, coordinates, points of interest and map utilities for the Comfy Suite on WoW Forever.
+## Notes-deDE: Modulare Weltkarten-Verbesserungen, Koordinaten, Kartenpunkte und Kartenwerkzeuge für die Comfy Suite in WoW Forever.
+## Author: TheRealDoubleG
+## Version: 0.1
+## SavedVariables: ComfyMapsDB
+## OptionalDeps: ComfyData, ComfyGatherer
+## X-ComfySuite: true
+## X-ComfyUI: 2
+## IconTexture: Interface\\Icons\\INV_Misc_Map_01
+
+Locale.lua
+Core.lua
+SharedSettings.lua
+Maps.lua
+Options.lua
