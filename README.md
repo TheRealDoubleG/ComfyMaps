@@ -1,11 +1,15 @@
 # ComfyMaps
 
-**Version 0.1 – Beta**  
+**Version 0.2 – Beta**  
 **Target: World of Warcraft: Forever 1.60.1 / Interface 16001**
 
 Modular world map enhancements, coordinates, points of interest and map utilities for the Comfy Suite on WoW Forever.
 
 ComfyMaps owns world-map presentation so other Comfy addons can provide map data without each addon modifying the Blizzard map independently.
+
+## 0.2 Beta
+
+- Profile changes now immediately reapply the active ComfyMaps feature settings.
 
 ## 0.1 Beta
 
