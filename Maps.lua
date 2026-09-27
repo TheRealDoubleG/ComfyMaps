@@ -269,6 +269,10 @@ function A:ApplyAll()
     self:RefreshGathererPins()
 end
 
+function A:RefreshFeature()
+    self:ApplyAll()
+end
+
 function A:InitializeFeature()
     local f=CreateFrame("Frame")
     self.eventFrame=f
